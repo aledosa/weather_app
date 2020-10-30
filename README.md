@@ -1,5 +1,7 @@
 # Weather App
 
-SPA in React JS, using the Open Weather Map API to make calls to a restful api to return the current weather data.
+Javascript SPA using React JS and an restful Open Weather Map API to make calls to return the current weather data.
+
+Images used are property of Alexa Dominguez and nobody has consent to use them externally from this app.
 
 Public API URL: https://home.openweathermap.org/
